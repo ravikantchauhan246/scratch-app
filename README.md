@@ -1,8 +1,10 @@
 ## Tutorial Video
 
-Watch tutorial video
 
-[Watch Tutorial Video](./ScratchClone.mp4)
+![Project Demo](https://res.cloudinary.com/dwthsc5jw/image/upload/v1728301032/sqwihtjuvvrhqvp65j1h.gif)
+
+
+
 
 
 ## How to Run
