@@ -1,3 +1,10 @@
+## Tutorial Video
+
+Watch tutorial video
+
+[Watch Tutorial Video](./ScratchClone.mp4)
+
+
 ## How to Run
 
 1. Clone the repository.
@@ -6,3 +13,5 @@
 4. Open the application in the browser at `http://localhost:3000`.
 
 ---
+
+
